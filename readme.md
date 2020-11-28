@@ -12,7 +12,7 @@ cd fastapi-docker-heroku
 heroku create <your-app-name>
 heroku git:remote <your-app-name>
 heroku stack:set container
-git push heroku master
+git push heroku main
 ```
 
 2.  Enjoy your fastAPI at https://your-app-name.herokuapp.com
