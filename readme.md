@@ -7,7 +7,7 @@
 1. Clone this repo. Set up and push to heroku.
 
 ```bash
-git clone git@github.com:askblaker/fastapi-docker-heroku.git
+git clone https://github.com/askblaker/fastapi-docker-heroku.git
 cd fastapi-docker-heroku
 heroku create <your-app-name>
 heroku git:remote <your-app-name>
