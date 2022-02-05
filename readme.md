@@ -1,4 +1,4 @@
-# Deploying dockerized fastAPI to Heroku
+# Deploy fastAPI to Heroku using Docker
 
 [FastAPI](https://fastapi.tiangolo.com/) Modern, fast, web framework for Python  
 [Docker](https://www.docker.com/) Containerization software  
